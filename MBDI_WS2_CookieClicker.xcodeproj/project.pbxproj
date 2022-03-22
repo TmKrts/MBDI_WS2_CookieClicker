@@ -11,6 +11,8 @@
 		E379E6C127E9EC0E00A73018 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E379E6C027E9EC0E00A73018 /* ContentView.swift */; };
 		E379E6C327E9EC0E00A73018 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E379E6C227E9EC0E00A73018 /* Assets.xcassets */; };
 		E379E6C627E9EC0E00A73018 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E379E6C527E9EC0E00A73018 /* Preview Assets.xcassets */; };
+		E379E6CD27E9EC9D00A73018 /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E379E6CC27E9EC9D00A73018 /* CreditsView.swift */; };
+		E379E6CF27E9ECAF00A73018 /* StoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E379E6CE27E9ECAF00A73018 /* StoreView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		E379E6C027E9EC0E00A73018 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E379E6C227E9EC0E00A73018 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E379E6C527E9EC0E00A73018 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E379E6CC27E9EC9D00A73018 /* CreditsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
+		E379E6CE27E9ECAF00A73018 /* StoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				E379E6C027E9EC0E00A73018 /* ContentView.swift */,
 				E379E6C227E9EC0E00A73018 /* Assets.xcassets */,
 				E379E6C427E9EC0E00A73018 /* Preview Content */,
+				E379E6CC27E9EC9D00A73018 /* CreditsView.swift */,
+				E379E6CE27E9ECAF00A73018 /* StoreView.swift */,
 			);
 			path = MBDI_WS2_CookieClicker;
 			sourceTree = "<group>";
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E379E6CD27E9EC9D00A73018 /* CreditsView.swift in Sources */,
 				E379E6C127E9EC0E00A73018 /* ContentView.swift in Sources */,
+				E379E6CF27E9ECAF00A73018 /* StoreView.swift in Sources */,
 				E379E6BF27E9EC0E00A73018 /* MBDI_WS2_CookieClickerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
